@@ -35,4 +35,5 @@ int main (){
         current=current->next;
     }
  //what are you fucking doing
+ //this is a trial for git commit -a -m
 }
